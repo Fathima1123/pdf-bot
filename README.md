@@ -1,4 +1,4 @@
-# 🤖 PDF Genius: AI-Powered Document Analysis
+# 🤖 PDF Bot: AI-Powered Document Analysis
 
 [![Made with Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-1CB0F5.svg)](https://streamlit.io/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)
