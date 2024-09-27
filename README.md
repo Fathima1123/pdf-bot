@@ -77,7 +77,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/Fathima1123)
+- GitHub: [(https://github.com/Fathima1123)]
+  
 
 
 ## 🙏 Acknowledgements
