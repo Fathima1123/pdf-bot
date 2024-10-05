@@ -4,7 +4,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-PDF bot is an advanced document analysis tool that leverages the power of AI to extract insights from your PDF documents. Using Retrieval-Augmented Generation (RAG) and Google's Gemini AI, this application offers intelligent question-answering, summarization, and semantic search capabilities.
+PDF bot is an advanced document analysis tool that leverages the power of AI to extract insights from your PDF documents. Using Retrieval-Augmented Generation (RAG) and Google's Gemini AI, this application offers intelligent question-answering, summarizations, and semantic search capabilities.
 
 ## 🌟 Features
 
